@@ -1,0 +1,28 @@
+# Python and notebook caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environments, editors, and system files
+.venv/
+venv/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Generated runtime files and resumable search state
+.matplotlib_cache/
+outputs/
+tmp*/
+*.log
+
+# Local model artifacts
+*.pkl
+*.joblib
