@@ -1,5 +1,10 @@
 # Thyroid Cancer Recurrence Classification with XGBoost
 
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![XGBoost Classification](https://img.shields.io/badge/XGBoost-Classification-006600)](https://xgboost.readthedocs.io/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](XGBoost_Thyroid_Classification.ipynb)
+[![License: MIT](https://img.shields.io/badge/License-MIT-2E8B57.svg)](LICENSE)
+
 This project classifies thyroid cancer recurrence using XGBoost with
 Information Gain feature selection and grid search. It includes raw data audit,
 preprocessing, exploratory analysis, K-Fold Cross Validation, model tuning,
