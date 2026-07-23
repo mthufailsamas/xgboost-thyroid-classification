@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/cece08f0-77e9-49d4-abf9-2e2d31283642" /># Thyroid Cancer Recurrence Classification with XGBoost
+# Thyroid Cancer Recurrence Classification with XGBoost
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![XGBoost Classification](https://img.shields.io/badge/XGBoost-Classification-006600)](https://xgboost.readthedocs.io/)
