@@ -1,4 +1,4 @@
-# Thyroid Cancer Recurrence Classification with XGBoost
+# Thyroid Cancer Recurrence Classification with XGBoost, Information Gain, and Grid Search
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![XGBoost Classification](https://img.shields.io/badge/XGBoost-Classification-006600)](https://xgboost.readthedocs.io/)
