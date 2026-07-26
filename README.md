@@ -647,7 +647,7 @@ Generated outputs, Python caches, and notebook checkpoints are ignored by Git.
 
 ## Authors
 
-- M. Thufail Alwannabil Samas](https://github.com/mthufailsamas) — Code implementation, data processing, and modeling
+- [M. Thufail Alwannabil Samas](https://github.com/mthufailsamas) — Code implementation, data processing, and modeling
 - [Hana Meidina Qurrota A'yun](https://github.com/hanameidina) — Research documentation and result interpretation
 
 ## License
